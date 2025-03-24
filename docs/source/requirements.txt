@@ -7,7 +7,7 @@ requests==2.32.3
 cryptography==44.0.1
 trustpoint-devid-module==0.0.7
 
-ruff==0.7.2
+ruff==0.11.2
 
 sphinx==8.1.3
 sphinxcontrib-plantuml==0.30
