@@ -4,7 +4,7 @@ click==8.1.8
 pydantic==2.10.6
 platformdirs==4.3.6
 requests==2.32.3
-cryptography==44.0.1
+cryptography==44.0.2
 trustpoint-devid-module==0.2.3
 
 ruff==0.11.2
