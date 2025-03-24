@@ -1,4 +1,4 @@
-zeroconf==0.136.0
+zeroconf==0.146.1
 prettytable==3.15.1
 click==8.1.8
 pydantic==2.10.6
