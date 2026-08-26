@@ -1,6 +1,6 @@
 zeroconf==0.146.1
 prettytable==3.16.0
-click==8.1.8
+click==8.5.0
 pydantic==2.11.0
 platformdirs==4.3.7
 requests==2.32.3
