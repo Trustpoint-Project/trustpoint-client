@@ -10,7 +10,7 @@ trustpoint-devid-module==0.2.3
 ruff==0.11.2
 
 sphinx==8.2.3
-sphinxcontrib-plantuml==0.30
+sphinxcontrib-plantuml==0.31
 pillow==11.1.0
 furo==2024.8.6
 docutils-stubs==0.0.22
